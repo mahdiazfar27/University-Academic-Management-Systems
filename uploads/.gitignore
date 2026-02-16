@@ -1,0 +1,4 @@
+/vendor
+.DS_Store
+thumbs.db
+config/database.php  <-- Ideally hidden for security, but keep for now so teammates have it.
